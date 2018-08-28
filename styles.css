@@ -1,0 +1,21 @@
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.go_to_console-container {
+  background: #fabc05;
+  padding: 7px;
+  width: 159px;
+}
+
+.go_to_console {
+  border: 1px solid #f6ada1;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  background: #1b73e7;
+  color: #fbfcff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
